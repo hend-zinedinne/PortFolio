@@ -1,0 +1,9 @@
+.menu_principal.titre {
+    text-align:center;
+    color:whitesmoke;
+    font-family:'JetBrains Mono'
+}
+
+body {
+    background-color:rgb(32, 32, 32)
+}
