@@ -305,6 +305,12 @@ footer {
         background-position-y:-970px;
     }
 
+    .image_moi {
+        scale:0.5;
+        margin:-300px;
+        margin-left:-200px;
+    }
+
 }
 
 .credits {
